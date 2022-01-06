@@ -1,0 +1,221 @@
+body{
+   font-family: 'Oswald', sans-serif; 
+   margin: 0;
+   
+}
+
+/* conmmon-style for three section */
+
+.common-design{
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.half-width{
+    width:50%;
+    padding-left: 100px;
+}
+
+.half-width img{
+    width:60%;
+}
+
+/* header section design here */
+.header-content{
+   border-left: 5px solid orange;
+   padding-left: 17px;
+   margin-top: 150px;
+}
+
+.content h1{
+    font-size: 43px;
+    line-height: 60%;
+}
+.content h2{
+    font-size: 30px;
+}
+
+.content span{
+    color: orange;
+    font-weight: bolder;
+}
+.content p{
+    font-size: 20px;
+    text-align:justify;
+}
+
+/* button design for all buttom that is available on web page */
+
+button{
+    padding: 10px;
+    background:orange;
+    color: white;
+    border-radius: 10%;
+    border:none;
+
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+button:hover{
+    background: black;
+}
+
+
+
+/*mission 2022 section design here */
+.boxes{
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 100px;
+}
+.mission-section h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+.mission-section span{
+    color: orange
+}
+.illustrator-design img{
+    width: 35%;
+}
+
+.box-1{
+    width: 45%;
+    margin-left: 100px;
+    padding: 15px;
+    background: rgb(238, 245, 233);
+    border-radius: 8%;
+}
+
+.box-2{
+    width: 45%;
+    margin-left: 5%;
+    padding:15px;
+    background: rgb(246, 241, 248);
+    border-radius: 8%;
+}
+
+.box-3{
+    width: 45%;
+    margin-left: 5%;
+    padding:15px;
+    background: rgb(243, 236, 212);
+    border-radius: 8%;
+    margin-right: 100px;
+}
+
+
+/* This third section design */
+
+.third-banner{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 17%;
+}
+    
+.thirdSection{
+    margin-left:100px;
+    margin-bottom: 5%;
+}
+
+.third-img img{
+  width:80%;
+
+}
+
+
+/* This is forth section design which is for global community development */
+
+.forthSection{
+    margin-left:10px;
+    margin-bottom: 5%;
+}
+
+
+
+/* CONTACT FORM WHICH IS DESIGN COPIED FROM W3SCHOOL AND HERE I EDIT A LITTLE BIT */
+.contact{
+    font-family: 'Oswald', sans-serif; 
+}
+.container {
+    border-radius: 5px;
+    background-color: rgb(238, 236, 234);
+    padding: 20px;
+  }
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: orange;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: black;
+    color: white;
+  }
+  
+.contact h1{
+   font-size: 50px;
+   font-family: 'Oswald', sans-serif; 
+   text-align: center;
+   font-weight: bolder;
+   color:orange;
+}
+
+
+/* FOOTER SECTION DESING CSS HERE */
+#footer{
+    height: 200px;
+    width: 100%;
+    background: black;
+    line-height: 20px; 
+}
+
+.footerSection h1{
+    color: rgb(141, 221, 245);
+    font-size: 35px;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Lobster', cursive;
+}
+.footerSection span{
+    color: orange;
+}
+.footerSection p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.footerSection2{
+    margin-top: 50px;
+}
+.footerSection2 p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+/* THANKS FOR YOUR PASSIONATE READING MY CODE*/
