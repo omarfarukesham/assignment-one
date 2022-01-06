@@ -40,7 +40,7 @@ body{
     font-weight: bolder;
 }
 .content p{
-    font-size: 20px;
+    font-size: 16px;
     text-align:justify;
 }
 
@@ -205,7 +205,7 @@ input[type=text], select, textarea {
 }
 .footerSection p{
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
 }
 .footerSection2{
@@ -213,7 +213,7 @@ input[type=text], select, textarea {
 }
 .footerSection2 p{
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     
 }
